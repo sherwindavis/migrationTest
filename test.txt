@@ -1,3 +1,1 @@
-secondary commit
-to
-branch 2
+This is branch2 for test
